@@ -168,7 +168,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-If you encounter any issues or have suggestions, please [open an issue](https://github.com/yourusername/auraflow/issues).
+If you encounter any issues or have suggestions, please [open an issue](https://github.com/ItisSubham/AuraFlow/issues).
 
 ---
 
